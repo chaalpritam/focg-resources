@@ -8,14 +8,20 @@
 
 ## Articles on FOCG
 
-[One](https://mirror.xyz/vanishk.eth/kXdSumWuR9JHZHKQz9uvjQeaxME6TsOH9cPklXsBJn4)
-[Two](https://mirror.xyz/vanishk.eth/Q6vV8WY3mVKV6W9YuVOntw2muzPUIFXeeSHfD2T6rk8)
-[Three](https://mirror.xyz/vanishk.eth/9xI-lNxPWyYqnh1PIoBhaKHWS22UhzB0uAP1kbiHeEc)
+[History ~ DarkForest & Loot - 1](https://mirror.xyz/vanishk.eth/kXdSumWuR9JHZHKQz9uvjQeaxME6TsOH9cPklXsBJn4)
+
+[Evolution in Open World - 2](https://mirror.xyz/vanishk.eth/Q6vV8WY3mVKV6W9YuVOntw2muzPUIFXeeSHfD2T6rk8)
+
+[MUD & DOJO - 3](https://mirror.xyz/vanishk.eth/9xI-lNxPWyYqnh1PIoBhaKHWS22UhzB0uAP1kbiHeEc)
 
 [Will Robinson - Unblocking On-Chain Games - 1](https://medium.com/alliancedao/unblocking-on-chain-games-part-one-throughput-d0dc7a4defab)
+
 [Will Robinson - Unblocking On-Chain Games - 2](https://medium.com/alliancedao/unblocking-on-chain-games-part-two-the-18xx-genre-61b2f4e8837d)
+
 [Will Robinson - Unblocking On-Chain Games - 3](https://medium.com/alliancedao/unblocking-on-chain-games-part-three-the-dogfighter-genre-8ef7c109eb88)
+
 [Will Robinson - Unblocking On-Chain Games - 4](https://medium.com/alliancedao/unblocking-on-chain-games-part-four-food-chain-magnate-617896839199)
+
 [Will Robinson - Unblocking On-Chain Games - 5](https://medium.com/alliancedao/unblocking-on-chain-games-pt-5-bat-channels-f24a3845e465)
 
 [Will Robinson - Removing Web3 Friction](https://medium.com/alliancedao/removing-web3s-friction-pt-1-progressive-onboarding-and-games-ddf2b59ffa59)
@@ -45,18 +51,28 @@
 ## Notable Games & Builders
 
 [3 DOJO Games](https://wasd.mirror.xyz/4BV2GI1J43OYzrCYiqrYMjgtigFdLYRbi5EcOFbmcPo)
+
 [5 MUD Games](https://wasd.mirror.xyz/LpT83RgsITDkj2UeKRsrQB9IJfZR5IXtA5RzhA5OgDk)
+
 [8 OnChain Builders](https://wasd.mirror.xyz/gv9ChTjeX1NEuOLoQcAqakVBegYRCm6mZzbVP2IoLWQ)
 
 ## Official Links
 
 [MUD Dev](https://mud.dev/)
+
 [DOJO Book](https://book.dojoengine.org/)
+
 [Magic Block ~ Bolt](https://blog.magicblock.gg/bolt-v0.1/)
 
 [Redstone](https://lattice.xyz/blog/introducing-redstone)
 
 [Starknet OnChain Gaming](https://www.starknet.io/tag/on-chain-gaming/)
+
+[Solana ~ Game Shift](https://gameshift.solanalabs.com/)
+
+[SUI](https://blog.sui.io/sui-primitives-revolutionize-onchain-gaming/)
+
+[Aptos ~ Game Stack](https://gamestack.aptoslabs.com/)
 
 [WASD](https://wasd.mirror.xyz/)
 
@@ -73,5 +89,5 @@
 [Youtube Links]
 
 [MUD](https://www.youtube.com/watch?v=tLGdup5wmck&pp=ygUSTVVEIG9uY2hhaW4gZ2FtaW5n)
-[DOJO](https://www.youtube.com/watch?v=oQQrrBP8-bw&pp=ygUTRE9KTyBvbmNoYWluIGdhbWluZw%3D%3D)
 
+[DOJO](https://www.youtube.com/watch?v=oQQrrBP8-bw&pp=ygUTRE9KTyBvbmNoYWluIGdhbWluZw%3D%3D)
